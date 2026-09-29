@@ -5,6 +5,7 @@
 - SOUND VOLTEX Nemsys Model (Valkyrie Converted)
 - beatmania IIDX (LM Converted)
 - jubeat
+- Pop'n Music
 - MUSECA
 - WACCA
 - CHUNITHM
