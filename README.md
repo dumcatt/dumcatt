@@ -1,5 +1,14 @@
 <img width="1210" height="400" alt="image" src="https://github.com/user-attachments/assets/2f83224a-ea3c-474c-91df-73ba052cddad" />
 
+## cabinet/games list
+
+- SOUND VOLTEX Nemsys Model (Valkyrie Converted)
+- beatmania IIDX (LM Converted)
+- jubeat
+- MUSECA
+- WACCA
+- CHUNITHM
+- ONGEKI
 
 
 <!--
