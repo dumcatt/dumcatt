@@ -9,7 +9,8 @@
 - MUSECA
 - WACCA
 - CHUNITHM
-- ONGEKI
+- maimai
+- O.N.G.E.K.I.
 
 
 <!--
